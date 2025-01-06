@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/"
-to = "https://amazon.com/mybook"
+to = "https://this.com/this"
 status = 301
 force = true
