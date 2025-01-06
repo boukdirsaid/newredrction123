@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/"
+to = "https://amazon.com/mybook"
+status = 301
+force = true
